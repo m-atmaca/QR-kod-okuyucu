@@ -1,6 +1,8 @@
 # QR-kod-okuyucu
 orjinal repo için: https://github.com/hrugved06/QR-Barcode-Scanner
 dosyalardan:
+
+
 qrcodereader.py sadece qr okur
 
 jsonluKod.py hem qr okur hem json dosyası olarak qr içeriğini kaydeder
